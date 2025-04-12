@@ -41,8 +41,6 @@ The app is built to support **live data from CoinDCX APIs**. However, due to the
 
 Visit http://localhost:3000 to see the app in action.
 
-Screenshot:
-
 
 👤 Author
 Kamal Ahmad
